@@ -25,7 +25,7 @@ export default function Footer() {
               Premium LED wall and audiovisual solutions in Kolkata since 2015.
             </p>
             <div className="flex space-x-4">
-              <Link href="#" className="text-blue-300 hover:text-white transition-colors duration-300">
+              <Link href="https://www.facebook.com/share/p/15mP7zKtnP/" className="text-blue-300 hover:text-white transition-colors duration-300">
                 <FaFacebook className="text-xl" />
               </Link>
               <Link href="#" className="text-blue-300 hover:text-white transition-colors duration-300">
