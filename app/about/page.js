@@ -100,10 +100,10 @@ export default function AboutPage() {
               </h2>
               <div className="space-y-6 text-blue-100">
                 <p>
-                  Jaan  was founded in 2015 with a vision to revolutionize event experiences in Kolkata through cutting-edge LED technology. What began as a small operation with a single LED screen has grown into one of the region's most trusted AV solution providers.
+                  Jaan  was founded in 2015 with a vision to revolutionize event experiences in Kolkata through cutting-edge LED technology. What began as a small operation with a single LED screen has grown into one of the region&apos;s most trusted AV solution providers.
                 </p>
                 <p>
-                  Our journey has been fueled by a passion for technology and a commitment to helping clients communicate their messages with maximum impact. From corporate conferences to grand weddings, we've had the privilege of enhancing hundreds of events across West Bengal.
+                  Our journey has been fueled by a passion for technology and a commitment to helping clients communicate their messages with maximum impact. From corporate conferences to grand weddings, we&apos;ve had the privilege of enhancing hundreds of events across West Bengal.
                 </p>
                 <p>
                   Today, we combine years of experience with the latest equipment to deliver audiovisual solutions that set new standards for quality and reliability.
@@ -188,7 +188,7 @@ export default function AboutPage() {
                 </li>
                 <li className="flex items-start">
                   <span className="text-blue-400 mr-2">•</span>
-                  <span><strong>Customer Focus:</strong> Tailored solutions for each client's unique needs</span>
+                  <span><strong>Customer Focus:</strong> Tailored solutions for each client&apos;s unique needs</span>
                 </li>
               </ul>
             </motion.div>
@@ -238,7 +238,7 @@ export default function AboutPage() {
               </span>
             </h2>
             <p className="text-lg text-blue-100 max-w-3xl mx-auto">
-              The skilled professionals behind Jaan 's success
+              The skilled professionals behind Jaan &apos;s success
             </p>
           </motion.div>
 

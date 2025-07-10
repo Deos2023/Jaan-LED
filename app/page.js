@@ -432,7 +432,7 @@ export default function Home() {
                   >
                     <div className="flex flex-col h-full">
                       <FaQuoteLeft className="text-blue-400 text-2xl mb-4" />
-                      <p className="text-lg text-blue-100 mb-6 flex-grow">"{testimonial.quote}"</p>
+                      <p className="text-lg text-blue-100 mb-6 flex-grow">&quot;{testimonial.quote}&quot;</p>
                       <div>
                         <h4 className="font-bold">{testimonial.name}</h4>
                         {testimonial.company && <p className="text-sm text-blue-300">{testimonial.company}</p>}
