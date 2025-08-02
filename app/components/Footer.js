@@ -61,11 +61,7 @@ export default function Footer() {
                   Services
                 </Link>
               </li>
-              <li>
-                <Link href="/gallery" className="text-blue-300 hover:text-white transition-colors duration-300">
-                  Gallery
-                </Link>
-              </li>
+              
               <li>
                 <Link href="/contact" className="text-blue-300 hover:text-white transition-colors duration-300">
                   Contact
